@@ -9,8 +9,12 @@
 
 💻 **获取访问库身份权限**！！
 - ------
----
-### Admin
-- Bl0ckDev      | 微信公众号：Esn技术社区
-- Ghos9527  
-- 0xrmrust
+
+**技能表：**
+- ** 0xAbyss·黑客俱乐部完整逆向 (https://t.me/OxAbyssClub)**
+
+**一：逆向工程 (https://t.me/OxAbyssClub/39) （IDA/Ghidra/WinDbg）**
+↓
+**二：IPC机制 (https://t.me/OxAbyssClub/79)（通信结构、协议、权限并理解理解系统通信）**
+↓
+**三：二进制漏洞 (https://t.me/OxAbyssClub/78)（可被发现和利用并理解漏洞原理）**
