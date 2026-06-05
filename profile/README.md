@@ -38,7 +38,6 @@ Windows 内核是所有方向的底层基础设施——反作弊驱动、攻击
 💻 **获取访问库身份权限**！！
 
 **技能表：**
-** 0xAbyss·[黑客俱乐部完整逆向](https://t.me/OxAbyssClub)**
 **一：[逆向工程](https://t.me/OxAbyssClub/39)  （IDA/Ghidra/WinDbg）**
 ↓
 **二：[IPC机制 ](https://t.me/OxAbyssClub/79)（通信结构、协议、权限并理解理解系统通信）**
@@ -46,13 +45,14 @@ Windows 内核是所有方向的底层基础设施——反作弊驱动、攻击
 **三：[二进制漏洞](https://t.me/OxAbyssClub/78)（可被发现和利用并理解漏洞原理）**
 
 💻**研究区：**
-[2026 - Ai自动化逆向工程](https://t.me/OxAbyssClub/39)
-[逆向工程游戏作弊全指南](https://t.me/OxAbyssClub/36)
-[二进制漏洞利用](https://t.me/OxAbyssClub/78)
-[Windows IPC 机制深入研究](https://t.me/OxAbyssClub/79)
+
+[2026 - Ai自动化逆向工程](https://t.me/OxAbyssClub/39)  
+[逆向工程游戏作弊全指南](https://t.me/OxAbyssClub/36)  
+[二进制漏洞利用](https://t.me/OxAbyssClub/78)  
+[Windows IPC 机制深入研究](https://t.me/OxAbyssClub/79)  
 
 💻**IOS研究区**
-1.[iOS 13.0 至 17.2.1系统的漏洞利用包](https://t.me/c/2807155870/413/1565)
-2.[iOS 18.4至18.7系统的漏洞利用工具包](https://t.me/c/2807155870/413/1761) 
-3.[针对IOS 18.6  Link ](https://github.com/rooootdev/lara/releases/download/latest/lara.ipa)
-4.[Dopamine](https://t.me/c/2807155870/413/1573)
+1.[iOS 13.0 至 17.2.1系统的漏洞利用包](https://t.me/c/2807155870/413/1565)  
+2.[iOS 18.4至18.7系统的漏洞利用工具包](https://t.me/c/2807155870/413/1761)   
+3.[针对IOS 18.6  Link ](https://github.com/rooootdev/lara/releases/download/latest/lara.ipa)  
+4.[Dopamine](https://t.me/c/2807155870/413/1573)  
