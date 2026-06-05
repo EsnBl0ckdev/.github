@@ -3,7 +3,7 @@
 我们是小众的“批判性思考者”,我们只学习对我们来说“实用”的技能。我们擅长使用的是C/C++,同时也是C/C++与Rust学者。我们只是一群讨厌“浪费”我们自己时间的人！
 
 💬 **加入我们一起互动！**  
-- **Telegram**:[©EsnInfoSec](https://t.me/esninfosec)
+- **Telegram**:[0xAbyss·Club](https://t.me/OxAbyssClub)
 - **Discord**:[NullDerefBar](https://discord.gg/KWFrnnqBQu)
 
 
