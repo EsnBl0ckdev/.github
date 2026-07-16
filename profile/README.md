@@ -1,4 +1,4 @@
-## 专注逆向工程 × AI 深度协同
+## 专注Ai赋能逆向工程 × AI赋能进攻性红队
 ********************************************
 💫逆向工程基础：
 
@@ -25,7 +25,6 @@ Windows 内核是所有方向的底层基础设施——反作弊驱动、攻击
 
 
 💬 **加入我们一起互动！**  
-- **Telegram**:[0xAbyss·Club](https://t.me/OxAbyssClub)
 - **Discord**:[NullDerefBar](https://discord.gg/KWFrnnqBQu)
 
 
